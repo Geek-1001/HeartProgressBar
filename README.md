@@ -1,6 +1,6 @@
 #HeartProgressBar 
 
-<img src="https://www.dropbox.com/s/gtovjzhco3d0uzi/heartProgressBar.gif?dl=1" height="50%" width="50%" />
+<img src="https://www.dropbox.com/s/kf2wp31jpfmf2nd/heartProgressBar.gif?dl=1" height="50%" width="50%" />
 
 I've wrote this progress bar for my girlfriend. It's sound strange, I know it :)
 But feel free to use it in your Android apps. 
