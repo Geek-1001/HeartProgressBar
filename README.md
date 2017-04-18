@@ -1,4 +1,4 @@
-#HeartProgressBar 
+# HeartProgressBar 
 
 <img src="https://www.dropbox.com/s/kf2wp31jpfmf2nd/heartProgressBar.gif?dl=1" height="50%" width="50%" />
 
@@ -6,20 +6,20 @@ I've wrote this progress bar for my girlfriend. It's sound strange, I know it :)
 But feel free to use it in your Android apps. 
 *HeratProgressBar* - just progress bar looks like heart with nice animation.
 
-##Demo
+## Demo
 
 It's demo app with [HeartProgressBar](https://www.dropbox.com/s/1287va7jiqs3kgh/app-debug.apk).
 
 
-##How to Use it
+## How to Use it
 
 Just follow all steps below and enjoy this custom view.
 
-###Step 1:
+### Step 1:
 
 Copy **HeartProgressBar.java** in your project.
 
-###Step 2:
+### Step 2:
 
 Add **HeartProgressBar** in your XML layour like in example below
 
@@ -31,7 +31,7 @@ Add **HeartProgressBar** in your XML layour like in example below
 		
 `Note: width and height of HeartProgressBar should be equals.`
 
-###Step 3:
+### Step 3:
 
 Find HeartProgressBar in your layout and start/dismiss it.
 
@@ -42,7 +42,7 @@ Find HeartProgressBar in your layout and start/dismiss it.
 	progressBar.dismiss();
 	
 	
-##In future...
+## In future...
 
 I'll make this .jar library.
 
